@@ -32,3 +32,17 @@ body
     line-height: 3;
     text-align: center;  
 }
+img
+{
+    box-shadow: 5px 5px 5px grey;
+}
+.gif
+{
+    width: 100px;
+    height: 100px;
+}
+h5
+{
+    border: 1px solid white;
+    border-radius: 20px;
+}
